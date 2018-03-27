@@ -1,2 +1,0 @@
-# eco
-Blockchain Nordic development
